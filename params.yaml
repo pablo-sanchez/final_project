@@ -1,0 +1,13 @@
+data:
+  raw: "../data/raw/"
+  cleaned: "../data/cleaned/"
+src: "../src"
+
+
+images: "../images/"
+  
+transformers: "../transformers/"
+models: "../models/"
+
+random_seed: "123"
+

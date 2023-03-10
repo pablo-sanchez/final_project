@@ -1,0 +1,727 @@
+job_simpl,seniority,size,type,sector,revenue,zone,salary_estimate,company_age,python_yn,spark_yn,azure_yn,aws_yn,excel_yn,machine_learning_yn
+data scientist,junior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Western,123486.0,47.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,mid,Huge company,Other institutions,Healthcare,$1 to $10 billion (USD),Remote,93500.0,79.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,137853.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,72500.0,72.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,155000.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Midwestern,109837.0,24.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Large company,Other institutions,IT and Telecommunications,Unknown / Non-Applicable,Remote,110000.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,junior,Huge company,Company - Public,Other sectors,$10+ billion (USD),Southern,103268.0,94.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Southern,102817.0,108.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Other institutions,Media and Entertaiment,$1 to $10 billion (USD),Northeastern,105016.0,28.0,1.0,0.0,0.0,1.0,0.0,1.0
+data analyst,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Northeastern,98706.0,185.4,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Northeastern,105732.0,111.1,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Western,93901.0,42.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,mid,Small company,Company - Private,Business services,Less than $5 million (USD),Remote,130000.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+data scientist,junior,Small company,Company - Private,Financial and housing services,Less than $5 million (USD),Midwestern,57500.0,37.4,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,mid,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Remote,150200.0,23.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Northeastern,116444.0,43.0,1.0,0.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,123790.0,6.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,mid,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,113710.0,28.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Small company,Company - Private,Business services,Less than $5 million (USD),Remote,115000.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Unknown size,Company - Private,Unknown,Unknown / Non-Applicable,Western,110783.0,113.7,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,125000.0,15.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,114768.0,111.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,junior,Large company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Western,119046.0,20.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Medium-sized company,Other institutions,IT and Telecommunications,Unknown / Non-Applicable,Midwestern,57500.0,8.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Northeastern,95000.0,56.0,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Small company,Company - Private,Other sectors,Unknown / Non-Applicable,Northeastern,99067.0,11.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,65000.0,18.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Small company,Company - Private,Business services,Unknown / Non-Applicable,Southern,115874.0,31.4,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Small company,Company - Public,Unknown,Less than $5 million (USD),Remote,98000.0,178.9,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Western,105700.0,42.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Midwestern,110000.0,159.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Large company,Company - Private,Financial and housing services,$10+ billion (USD),Northeastern,119109.0,108.0,0.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,117938.0,116.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,mid,Small company,Company - Public,Media and Entertaiment,Less than $5 million (USD),Remote,80700.0,43.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Western,144000.0,39.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Northeastern,137618.0,170.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Medium-sized company,Company - Private,Media and Entertaiment,$100 million to $1 billion (USD),Southern,88385.0,89.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,junior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Western,98337.0,21.0,0.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Large company,Company - Public,IT and Telecommunications,$100 million to $1 billion (USD),Western,158821.0,20.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,mid,Small company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Remote,130000.0,15.0,1.0,1.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,120000.0,12.4,1.0,0.0,1.0,0.0,1.0,1.0
+data scientist,mid,Large company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Remote,150200.0,8.0,1.0,1.0,0.0,0.0,0.0,1.0
+data engineer,junior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Southern,70785.0,111.0,1.0,1.0,1.0,1.0,0.0,1.0
+data scientist,junior,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Northeastern,99762.0,36.0,1.0,1.0,1.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Northeastern,115151.0,13.0,1.0,1.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Large company,Company - Public,IT and Telecommunications,$100 million to $1 billion (USD),Remote,158000.0,18.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Unknown size,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,140505.0,13.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,89700.0,16.1,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Northeastern,83212.0,128.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Unknown size,Other institutions,IT and Telecommunications,Unknown / Non-Applicable,Remote,140000.0,13.4,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,mid,Unknown size,Company - Private,Unknown,Unknown / Non-Applicable,Southern,98828.0,189.4,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Huge company,Company - Private,Financial and housing services,$10+ billion (USD),Remote,124750.0,110.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Unknown size,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Remote,190000.0,122.7,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Remote,130000.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,junior,Large company,Company - Private,Business services,$5 to $100 million (USD),Southern,100000.0,23.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Other institutions,Other sectors,Unknown / Non-Applicable,Southern,110520.0,45.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,mid,Unknown size,Other institutions,IT and Telecommunications,Unknown / Non-Applicable,Remote,190000.0,122.7,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,mid,Huge company,Company - Public,Healthcare,$10+ billion (USD),Northeastern,80173.0,135.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,95695.0,74.0,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Other institutions,Media and Entertaiment,$100 million to $1 billion (USD),Western,133699.0,43.0,1.0,1.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Western,142470.0,25.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Northeastern,130000.0,9.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Southern,89862.0,9.0,0.0,0.0,1.0,1.0,0.0,0.0
+data analyst,Senior,Huge company,Company - Public,Other sectors,Unknown / Non-Applicable,Midwestern,89838.0,3.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,95490.0,119.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Remote,191100.0,28.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Remote,191100.0,28.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Remote,144000.0,91.0,1.0,1.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Business services,$10+ billion (USD),Southern,104846.0,33.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Huge company,Other institutions,Other sectors,Unknown / Non-Applicable,Western,83250.0,62.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,junior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,90061.0,12.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,106961.0,67.6,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Western,170000.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,mid,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,160000.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Large company,Other institutions,IT and Telecommunications,Unknown / Non-Applicable,Western,190000.0,122.7,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Small company,Company - Private,Media and Entertaiment,Less than $5 million (USD),Remote,113644.0,111.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Southern,96449.0,71.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,junior,Large company,Other institutions,Other sectors,Unknown / Non-Applicable,Northeastern,102469.0,223.0,0.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Southern,120156.0,108.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Large company,Other institutions,Financial and housing services,$100 million to $1 billion (USD),Remote,134898.0,65.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Other institutions,Healthcare,$1 to $10 billion (USD),Western,105000.0,17.0,0.0,1.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Remote,185000.0,10.0,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,99218.0,49.7,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Small company,Company - Private,Business services,$5 to $100 million (USD),Southern,140000.0,8.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,mid,Small company,Company - Private,Other sectors,Less than $5 million (USD),Western,160000.0,17.5,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,115000.0,26.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,166400.0,4.0,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Small company,Company - Private,Financial and housing services,Less than $5 million (USD),Remote,149627.0,27.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Western,132791.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Other sectors,Unknown / Non-Applicable,Western,170000.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0
+data engineer,Senior,Unknown size,Company - Private,Business services,$5 to $100 million (USD),Remote,134321.0,93.9,1.0,0.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,Media and Entertaiment,Unknown / Non-Applicable,Remote,116987.0,12.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Western,113641.0,43.0,1.0,0.0,1.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,125000.0,44.7,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Small company,Company - Public,Healthcare,Unknown / Non-Applicable,Remote,92169.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0
+data scientist,mid,Medium-sized company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Southern,96278.0,61.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Large company,Company - Private,Business services,$100 million to $1 billion (USD),Southern,94485.0,85.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Large company,Company - Private,Other sectors,$5 to $100 million (USD),Midwestern,127500.0,172.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,94113.0,53.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Other sectors,$10+ billion (USD),Southern,140000.0,13.4,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,mid,Small company,Company - Public,Unknown,Unknown / Non-Applicable,Remote,56280.0,34.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,mid,Large company,Other institutions,Financial and housing services,$100 million to $1 billion (USD),Western,127500.0,172.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,131287.0,86.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Other institutions,Other sectors,Unknown / Non-Applicable,Western,98694.0,40.0,0.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Large company,Company - Private,Financial and housing services,$5 to $100 million (USD),Northeastern,125000.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,70000.0,48.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Other sectors,$5 to $100 million (USD),Western,113885.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Medium-sized company,Company - Private,Healthcare,$100 million to $1 billion (USD),Western,134163.0,7.0,1.0,0.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Small company,Company - Private,Industry,Unknown / Non-Applicable,Western,92500.0,173.0,1.0,0.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Financial and housing services,$1 to $10 billion (USD),Remote,115000.0,71.1,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,110963.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Other sectors,Unknown / Non-Applicable,Midwestern,99003.0,125.0,1.0,1.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Northeastern,176634.0,11.1,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,126425.0,86.7,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Unknown size,Company - Private,Unknown,Unknown / Non-Applicable,Northeastern,80947.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,junior,Small company,Other institutions,Other sectors,$5 to $100 million (USD),Southern,125000.0,10.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,103789.0,64.7,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,120000.0,17.0,1.0,0.0,0.0,0.0,1.0,1.0
+data analyst,Senior,Small company,Company - Private,Business services,Less than $5 million (USD),Western,94000.0,48.7,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Western,105654.0,120.0,0.0,0.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,155000.0,11.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,180000.0,29.0,1.0,1.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Small company,Company - Private,Other sectors,Less than $5 million (USD),Remote,109837.0,24.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Midwestern,102817.0,108.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,junior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Southern,150200.0,23.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,mid,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Remote,93901.0,42.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Western,113710.0,28.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,mid,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,114768.0,111.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,123790.0,6.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,102817.0,108.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,junior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Southern,150200.0,23.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,mid,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Remote,116444.0,43.0,1.0,0.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Northeastern,114768.0,111.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,93901.0,42.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Western,116444.0,43.0,1.0,0.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Northeastern,123790.0,6.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,113710.0,28.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,mid,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,110000.0,159.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Midwestern,109837.0,24.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Midwestern,150200.0,23.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,mid,Huge company,Company - Public,Unknown,Unknown / Non-Applicable,Remote,98706.0,186.4,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,119046.0,20.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Large company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Western,115151.0,13.0,1.0,1.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Northeastern,117938.0,116.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,62500.0,100.4,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Small company,Company - Private,Financial and housing services,Less than $5 million (USD),Midwestern,102372.0,134.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Midwestern,73813.0,15.0,1.0,1.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Southern,115673.0,38.0,1.0,1.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Southern,100000.0,45.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Business services,Unknown / Non-Applicable,Remote,138475.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,129500.0,37.0,1.0,0.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,$1 to $10 billion (USD),Western,121209.0,70.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,junior,Large company,Other institutions,Other sectors,$1 to $10 billion (USD),Western,124335.0,26.3,1.0,0.0,1.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,105000.0,3.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Unknown size,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,121382.0,7.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Small company,Company - Private,IT and Telecommunications,$1 to $10 billion (USD),Remote,114577.0,42.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Other institutions,Healthcare,Unknown / Non-Applicable,Western,67500.0,50.5,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Northeastern,74000.0,10.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Small company,Company - Private,Financial and housing services,Less than $5 million (USD),Midwestern,113750.0,54.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,mid,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Remote,72500.0,72.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Company - Public,Financial and housing services,$1 to $10 billion (USD),Southern,175500.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,114397.0,7.0,1.0,0.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Western,120000.0,42.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,87500.0,14.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,mid,Large company,Company - Public,Healthcare,Unknown / Non-Applicable,Remote,91258.0,79.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,junior,Large company,Company - Private,Financial and housing services,$100 million to $1 billion (USD),Western,108667.0,113.0,1.0,0.0,0.0,0.0,1.0,1.0
+data analyst,Senior,Huge company,Company - Private,Other sectors,Unknown / Non-Applicable,Northeastern,127500.0,17.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Western,116952.0,159.0,0.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,97000.0,17.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Midwestern,125491.0,49.2,0.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Large company,Company - Public,Other sectors,$1 to $10 billion (USD),Northeastern,134155.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Unknown size,Other institutions,Other sectors,Unknown / Non-Applicable,Southern,105000.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,107800.0,117.0,0.0,0.0,0.0,0.0,1.0,1.0
+data scientist,mid,Small company,Company - Private,Other sectors,$1 to $10 billion (USD),Remote,105228.0,132.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Other institutions,Other sectors,$1 to $10 billion (USD),Western,97000.0,35.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Other institutions,Other sectors,$1 to $10 billion (USD),Midwestern,107210.0,35.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,mid,Huge company,Other institutions,IT and Telecommunications,$1 to $10 billion (USD),Remote,155000.0,23.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,mid,Huge company,Company - Private,Industry,$1 to $10 billion (USD),Northeastern,90000.0,9.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Large company,Other institutions,Financial and housing services,$5 to $100 million (USD),Remote,93500.0,79.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Medium-sized company,Company - Private,Other sectors,$5 to $100 million (USD),Remote,100000.0,26.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Huge company,Other institutions,Healthcare,$1 to $10 billion (USD),Remote,110000.0,85.2,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,Healthcare,$1 to $10 billion (USD),Remote,104167.0,128.0,1.0,1.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Small company,Other institutions,Unknown,Unknown / Non-Applicable,Western,95401.0,93.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Northeastern,126650.0,108.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Large company,Other institutions,Business services,$1 to $10 billion (USD),Midwestern,165200.0,47.0,0.0,0.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Southern,123637.0,24.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Western,116043.0,5.0,1.0,0.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Large company,Other institutions,Media and Entertaiment,$5 to $100 million (USD),Northeastern,135000.0,20.4,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Unknown size,Company - Private,Business services,Unknown / Non-Applicable,Western,100000.0,45.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Medium-sized company,Other institutions,Other sectors,Unknown / Non-Applicable,Western,151851.0,18.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,mid,Unknown size,Company - Private,Unknown,Unknown / Non-Applicable,Southern,124950.0,51.0,1.0,0.0,1.0,1.0,1.0,1.0
+data analyst,junior,Small company,Other institutions,Unknown,Less than $5 million (USD),Remote,168560.0,65.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Other institutions,IT and Telecommunications,$100 million to $1 billion (USD),Northeastern,107694.0,67.0,1.0,1.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Other sectors,$10+ billion (USD),Western,160000.0,26.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Other institutions,Healthcare,$1 to $10 billion (USD),Western,135000.0,15.6,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Other institutions,Business services,Unknown / Non-Applicable,Western,113000.0,33.9,0.0,0.0,0.0,0.0,1.0,0.0
+data scientist,mid,Large company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,119750.0,223.0,1.0,1.0,0.0,0.0,0.0,0.0
+data scientist,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,106771.0,41.0,1.0,0.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Public,Unknown,Unknown / Non-Applicable,Western,86000.0,64.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,junior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,157500.0,76.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Company - Public,Healthcare,$100 million to $1 billion (USD),Northeastern,98000.0,178.9,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Other institutions,Business services,$100 million to $1 billion (USD),Southern,99297.0,8.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Company - Private,Media and Entertaiment,$1 to $10 billion (USD),Northeastern,112316.0,24.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Small company,Company - Public,Unknown,Less than $5 million (USD),Remote,116604.0,114.0,1.0,0.0,0.0,1.0,1.0,1.0
+data scientist,mid,Medium-sized company,Company - Private,Other sectors,Unknown / Non-Applicable,Northeastern,95602.0,110.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,junior,Large company,Other institutions,Media and Entertaiment,$5 to $100 million (USD),Northeastern,57500.0,8.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Remote,100000.0,133.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Midwestern,110000.0,7.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,junior,Medium-sized company,Other institutions,IT and Telecommunications,Unknown / Non-Applicable,Midwestern,130223.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Northeastern,89714.0,16.1,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Medium-sized company,Company - Private,Other sectors,Unknown / Non-Applicable,Remote,162500.0,22.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Southern,109137.0,211.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,mid,Unknown size,Company - Private,Unknown,Unknown / Non-Applicable,Western,140000.0,16.0,1.0,1.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,99098.0,56.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Huge company,Other institutions,Healthcare,$1 to $10 billion (USD),Northeastern,163697.0,14.0,1.0,0.0,0.0,1.0,1.0,1.0
+data scientist,mid,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,83250.0,62.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Unknown size,Company - Private,Unknown,Unknown / Non-Applicable,Southern,130000.0,3.4,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,95647.0,29.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Huge company,Other institutions,Other sectors,$1 to $10 billion (USD),Northeastern,88563.0,111.7,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,junior,Huge company,Other institutions,Other sectors,Unknown / Non-Applicable,Western,110710.0,86.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Small company,Company - Public,Unknown,Unknown / Non-Applicable,Remote,165000.0,10.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Media and Entertaiment,$5 to $100 million (USD),Southern,88174.0,82.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Small company,Company - Private,Unknown,Less than $5 million (USD),Southern,132367.0,43.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Other institutions,Financial and housing services,$10+ billion (USD),Southern,109315.0,28.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Medium-sized company,Company - Private,Financial and housing services,Less than $5 million (USD),Western,54281.0,84.5,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Large company,Other institutions,Healthcare,$1 to $10 billion (USD),Southern,92816.0,26.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Other institutions,Media and Entertaiment,$100 million to $1 billion (USD),Western,89347.0,21.0,0.0,0.0,0.0,1.0,0.0,1.0
+data analyst,Senior,Medium-sized company,Company - Private,Financial and housing services,$5 to $100 million (USD),Midwestern,130522.0,20.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,119344.0,28.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Other sectors,Unknown / Non-Applicable,Southern,95293.0,71.9,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Southern,171850.0,36.0,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Other institutions,Media and Entertaiment,$5 to $100 million (USD),Western,107323.0,88.6,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Southern,114707.0,97.7,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Northeastern,185250.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Northeastern,90892.0,8.0,1.0,1.0,1.0,0.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Financial and housing services,$5 to $100 million (USD),Southern,132367.0,43.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Unknown size,Other institutions,Healthcare,Unknown / Non-Applicable,Northeastern,165000.0,18.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Other sectors,Unknown / Non-Applicable,Western,165000.0,18.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,junior,Medium-sized company,Other institutions,Unknown,Unknown / Non-Applicable,Southern,105000.0,5.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Large company,Other institutions,Media and Entertaiment,$100 million to $1 billion (USD),Western,127026.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Healthcare,$5 to $100 million (USD),Western,170000.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0
+data scientist,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,130000.0,5.7,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Small company,Company - Private,Other sectors,Unknown / Non-Applicable,Remote,88578.0,111.7,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Medium-sized company,Company - Private,Financial and housing services,Unknown / Non-Applicable,Midwestern,125000.0,27.0,1.0,0.0,1.0,0.0,0.0,1.0
+data engineer,Senior,Unknown size,Company - Private,Business services,$5 to $100 million (USD),Remote,70000.0,19.0,1.0,0.0,1.0,0.0,1.0,1.0
+data scientist,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Northeastern,65773.0,60.0,1.0,0.0,0.0,1.0,1.0,1.0
+data scientist,junior,Medium-sized company,Company - Private,Media and Entertaiment,Less than $5 million (USD),Northeastern,137350.0,30.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Other sectors,$100 million to $1 billion (USD),Western,96446.0,16.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Other institutions,Media and Entertaiment,$100 million to $1 billion (USD),Western,155000.0,11.0,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Media and Entertaiment,$100 million to $1 billion (USD),Southern,84850.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Medium-sized company,Other institutions,IT and Telecommunications,$5 to $100 million (USD),Southern,100000.0,35.0,1.0,0.0,1.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Other sectors,$10+ billion (USD),Midwestern,90012.0,26.4,0.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Company - Public,Financial and housing services,$1 to $10 billion (USD),Remote,183250.0,10.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Southern,91214.0,8.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Southern,106718.0,111.0,1.0,1.0,1.0,1.0,1.0,1.0
+data scientist,junior,Small company,Other institutions,Other sectors,$5 to $100 million (USD),Southern,102372.0,134.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Huge company,Other institutions,IT and Telecommunications,$1 to $10 billion (USD),Southern,138475.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Other institutions,Other sectors,Unknown / Non-Applicable,Western,115673.0,38.0,1.0,1.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Western,121209.0,70.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Media and Entertaiment,$5 to $100 million (USD),Western,87500.0,14.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,junior,Huge company,Company - Private,Industry,$10+ billion (USD),Midwestern,140000.0,13.4,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Midwestern,106718.0,111.0,1.0,1.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,102372.0,134.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Southern,138475.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Large company,Other institutions,Other sectors,$1 to $10 billion (USD),Western,121209.0,70.0,1.0,0.0,0.0,1.0,0.0,1.0
+data analyst,junior,Large company,Company - Private,Financial and housing services,$100 million to $1 billion (USD),Western,87500.0,14.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Western,121382.0,7.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Huge company,Company - Private,Industry,$10+ billion (USD),Midwestern,91258.0,79.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Midwestern,115673.0,38.0,1.0,1.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,121382.0,7.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Large company,Other institutions,Other sectors,$1 to $10 billion (USD),Western,106718.0,111.0,1.0,1.0,1.0,1.0,1.0,1.0
+data analyst,junior,Large company,Company - Private,Financial and housing services,$100 million to $1 billion (USD),Western,125491.0,49.2,0.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Large company,Other institutions,Healthcare,Unknown / Non-Applicable,Western,134155.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+data analyst,Senior,Huge company,Company - Private,Other sectors,Unknown / Non-Applicable,Northeastern,100000.0,26.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Southern,114577.0,42.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Other institutions,Healthcare,Unknown / Non-Applicable,Western,93708.0,76.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,junior,Huge company,Company - Private,Industry,$10+ billion (USD),Midwestern,99187.0,61.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Unknown size,Other institutions,Other sectors,Unknown / Non-Applicable,Southern,119750.0,223.0,1.0,1.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,86117.0,34.0,1.0,0.0,1.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,Healthcare,$1 to $10 billion (USD),Remote,109526.0,55.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Northeastern,107865.0,3.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,mid,Large company,Other institutions,Business services,Unknown / Non-Applicable,Midwestern,66151.0,93.0,0.0,0.0,0.0,1.0,0.0,1.0
+data scientist,junior,Large company,Company - Private,Business services,$100 million to $1 billion (USD),Southern,116604.0,114.0,1.0,0.0,0.0,1.0,1.0,1.0
+data scientist,junior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,81911.0,176.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Northeastern,162500.0,22.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Other sectors,$10+ billion (USD),Southern,102271.0,122.4,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Other sectors,Unknown / Non-Applicable,Midwestern,117000.0,13.0,1.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Large company,Other institutions,Business services,$1 to $10 billion (USD),Midwestern,99291.0,103.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Remote,79473.0,185.0,1.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Large company,Other institutions,Other sectors,$100 million to $1 billion (USD),Midwestern,110710.0,86.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,135000.0,59.0,1.0,0.0,1.0,1.0,1.0,1.0
+data scientist,mid,Small company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Western,185250.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Western,165000.0,6.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,122730.0,76.0,1.0,1.0,0.0,1.0,1.0,1.0
+data analyst,mid,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,86801.0,89.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Other institutions,Financial and housing services,$10+ billion (USD),Southern,125000.0,27.0,1.0,0.0,1.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Northeastern,83440.0,12.0,1.0,1.0,1.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Other sectors,Unknown / Non-Applicable,Western,195000.0,15.0,1.0,1.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Healthcare,Unknown / Non-Applicable,Western,184845.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Private,Financial and housing services,$10+ billion (USD),Northeastern,65773.0,60.0,1.0,0.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Medium-sized company,Company - Private,Media and Entertaiment,$100 million to $1 billion (USD),Southern,117500.0,21.0,1.0,0.0,1.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Other sectors,$100 million to $1 billion (USD),Western,124801.0,27.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Other institutions,Media and Entertaiment,$100 million to $1 billion (USD),Western,127499.0,172.0,1.0,1.0,0.0,0.0,1.0,1.0
+data scientist,junior,Small company,Company - Private,Other sectors,Unknown / Non-Applicable,Southern,147500.0,19.0,0.0,0.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Small company,Company - Private,Media and Entertaiment,Unknown / Non-Applicable,Remote,132662.0,106.0,1.0,1.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,91258.0,79.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,Senior,Huge company,Company - Public,Other sectors,$10+ billion (USD),Midwestern,99187.0,61.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Company - Private,Healthcare,$100 million to $1 billion (USD),Midwestern,99187.0,61.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,106785.0,111.0,1.0,1.0,1.0,1.0,1.0,1.0
+data scientist,junior,Large company,Company - Private,Business services,$5 to $100 million (USD),Northeastern,106785.0,111.0,1.0,1.0,1.0,1.0,1.0,1.0
+data scientist,Senior,Huge company,Company - Private,Financial and housing services,$10+ billion (USD),Southern,110000.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0
+data scientist,Senior,Medium-sized company,Other institutions,Business services,$5 to $100 million (USD),Northeastern,95911.0,83.0,0.0,0.0,0.0,0.0,1.0,0.0
+data scientist,Senior,Large company,Other institutions,Healthcare,$1 to $10 billion (USD),Remote,142932.0,14.0,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Huge company,Company - Private,Other sectors,Unknown / Non-Applicable,Northeastern,91998.0,58.0,1.0,0.0,0.0,1.0,0.0,0.0
+data scientist,junior,Large company,Company - Private,Business services,$100 million to $1 billion (USD),Southern,120000.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,junior,Large company,Company - Private,Business services,$100 million to $1 billion (USD),Southern,127000.0,5.0,1.0,0.0,1.0,0.0,0.0,0.0
+data scientist,junior,Huge company,Company - Private,Industry,$10+ billion (USD),Midwestern,131861.0,55.8,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,junior,Huge company,Company - Private,Industry,$10+ billion (USD),Midwestern,137324.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Small company,Company - Public,Unknown,Less than $5 million (USD),Remote,145000.0,57.4,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Huge company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Southern,92625.0,4.0,1.0,1.0,1.0,1.0,1.0,1.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Western,110000.0,40.0,1.0,1.0,0.0,0.0,0.0,0.0
+data engineer,junior,Large company,Company - Private,Industry,$1 to $10 billion (USD),Northeastern,104647.0,185.0,1.0,0.0,0.0,1.0,1.0,0.0
+data engineer,Senior,Large company,Company - Private,Business services,$5 to $100 million (USD),Remote,140000.0,13.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,105000.0,12.5,0.0,0.0,0.0,1.0,0.0,0.0
+data engineer,mid,Medium-sized company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Remote,101936.0,127.5,1.0,0.0,0.0,1.0,1.0,0.0
+data engineer,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Western,145000.0,57.4,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,61680.0,117.0,0.0,0.0,0.0,0.0,1.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,165000.0,18.0,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,junior,Huge company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Southern,130000.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,42700.0,131.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,95893.0,72.1,1.0,1.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Small company,Company - Private,Financial and housing services,Less than $5 million (USD),Remote,71793.0,29.0,1.0,0.0,0.0,0.0,1.0,0.0
+data engineer,mid,Medium-sized company,Company - Public,Unknown,Unknown / Non-Applicable,Remote,135000.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Small company,Other institutions,Unknown,Unknown / Non-Applicable,Remote,90000.0,34.0,0.0,0.0,1.0,1.0,1.0,0.0
+data engineer,mid,Unknown size,Company - Private,Business services,Unknown / Non-Applicable,Remote,44000.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Huge company,Other institutions,Other sectors,$1 to $10 billion (USD),Western,105977.0,13.0,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,125000.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,135800.0,34.0,1.0,1.0,1.0,1.0,0.0,0.0
+data engineer,junior,Medium-sized company,Company - Private,Financial and housing services,Unknown / Non-Applicable,Midwestern,105000.0,59.0,1.0,0.0,0.0,0.0,0.0,1.0
+data engineer,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,120000.0,7.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,junior,Large company,Other institutions,Other sectors,Unknown / Non-Applicable,Midwestern,71990.0,65.0,1.0,1.0,0.0,1.0,0.0,1.0
+data engineer,mid,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Remote,85000.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,$100 million to $1 billion (USD),Remote,90402.0,52.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,junior,Medium-sized company,Other institutions,Other sectors,$5 to $100 million (USD),Southern,110000.0,5.0,1.0,0.0,1.0,1.0,0.0,1.0
+data engineer,Senior,Medium-sized company,Company - Public,Industry,$5 to $100 million (USD),Western,95000.0,69.4,1.0,0.0,0.0,0.0,1.0,0.0
+data engineer,mid,Small company,Company - Public,Business services,$5 to $100 million (USD),Southern,105299.0,111.0,1.0,1.0,1.0,1.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Other institutions,Healthcare,Unknown / Non-Applicable,Western,93316.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Southern,90407.0,30.7,1.0,1.0,0.0,1.0,1.0,1.0
+data engineer,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,78453.0,29.0,1.0,1.0,1.0,0.0,1.0,0.0
+data engineer,Senior,Huge company,Company - Public,Other sectors,$1 to $10 billion (USD),Midwestern,127680.0,61.0,1.0,0.0,0.0,1.0,1.0,1.0
+data engineer,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,94719.0,10.0,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,mid,Large company,Company - Private,Industry,$100 million to $1 billion (USD),Southern,89042.0,92.9,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,110000.0,18.0,1.0,0.0,0.0,1.0,1.0,0.0
+data engineer,Senior,Large company,Company - Public,Unknown,Unknown / Non-Applicable,Remote,93028.0,9.0,0.0,0.0,0.0,1.0,1.0,0.0
+data engineer,junior,Huge company,Company - Private,Industry,$10+ billion (USD),Southern,86855.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,junior,Medium-sized company,Company - Private,Healthcare,Less than $5 million (USD),Northeastern,116258.0,8.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Unknown size,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,45120.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,Media and Entertaiment,$5 to $100 million (USD),Southern,79800.0,71.5,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Small company,Company - Public,Unknown,$5 to $100 million (USD),Western,125983.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Southern,91998.0,58.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,44000.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Small company,Company - Private,Healthcare,$5 to $100 million (USD),Remote,135800.0,34.0,1.0,1.0,1.0,1.0,0.0,0.0
+data engineer,Senior,Small company,Company - Private,Financial and housing services,Unknown / Non-Applicable,Midwestern,42700.0,131.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Small company,Company - Private,Business services,Unknown / Non-Applicable,Midwestern,105000.0,59.0,1.0,0.0,0.0,0.0,0.0,1.0
+data engineer,Senior,Large company,Company - Private,Healthcare,Unknown / Non-Applicable,Southern,100932.0,111.0,1.0,1.0,1.0,1.0,0.0,1.0
+data engineer,junior,Small company,Company - Private,Business services,Less than $5 million (USD),Western,110000.0,18.0,1.0,0.0,0.0,1.0,1.0,0.0
+data engineer,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,125983.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Southern,139000.0,8.0,1.0,1.0,0.0,1.0,0.0,0.0
+data engineer,junior,Large company,Company - Private,Industry,$1 to $10 billion (USD),Northeastern,170000.0,26.0,1.0,1.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,84000.0,6.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,junior,Medium-sized company,Other institutions,Other sectors,$5 to $100 million (USD),Southern,160000.0,17.5,1.0,0.0,0.0,1.0,1.0,0.0
+data engineer,Senior,Medium-sized company,Other institutions,Healthcare,Unknown / Non-Applicable,Western,105000.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+data engineer,junior,Medium-sized company,Company - Private,Financial and housing services,Unknown / Non-Applicable,Midwestern,127227.0,38.0,1.0,0.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Southern,96511.0,37.4,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Huge company,Company - Private,Industry,$10+ billion (USD),Midwestern,124923.0,156.0,1.0,1.0,0.0,0.0,1.0,1.0
+data engineer,Senior,Small company,Company - Private,Healthcare,$5 to $100 million (USD),Remote,75312.0,11.0,0.0,1.0,0.0,1.0,0.0,1.0
+data engineer,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Southern,120000.0,15.0,0.0,0.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,Industry,Less than $5 million (USD),Southern,90000.0,8.0,1.0,1.0,1.0,1.0,1.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,103817.0,23.0,1.0,0.0,1.0,0.0,0.0,0.0
+data engineer,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,120000.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,Unknown,Unknown / Non-Applicable,Western,95136.0,42.0,1.0,1.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,Business services,Unknown / Non-Applicable,Northeastern,105000.0,12.5,0.0,1.0,0.0,1.0,0.0,0.0
+data engineer,mid,Medium-sized company,Company - Private,Other sectors,$5 to $100 million (USD),Western,92237.0,50.4,1.0,0.0,1.0,0.0,0.0,0.0
+data engineer,mid,Large company,Company - Public,Unknown,Unknown / Non-Applicable,Southern,118820.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,103557.0,4.0,0.0,0.0,1.0,0.0,1.0,0.0
+data engineer,mid,Small company,Company - Private,Other sectors,Unknown / Non-Applicable,Western,109585.0,28.3,1.0,0.0,1.0,1.0,0.0,0.0
+data engineer,Senior,Small company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,92003.0,9.0,0.0,0.0,0.0,1.0,1.0,0.0
+data engineer,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Midwestern,90418.0,21.0,0.0,1.0,1.0,1.0,0.0,0.0
+data engineer,mid,Large company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Southern,160000.0,17.5,1.0,1.0,1.0,1.0,0.0,1.0
+data engineer,mid,Small company,Company - Public,Business services,Unknown / Non-Applicable,Southern,70000.0,6.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,$100 million to $1 billion (USD),Midwestern,118520.0,59.1,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,137250.0,40.0,1.0,1.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Unknown size,Company - Private,Financial and housing services,Unknown / Non-Applicable,Southern,75000.0,5.0,1.0,1.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Huge company,Other institutions,Healthcare,$1 to $10 billion (USD),Western,92305.0,80.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Huge company,Other institutions,Other sectors,$10+ billion (USD),Northeastern,73513.0,130.0,1.0,0.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Southern,95585.0,27.0,1.0,0.0,0.0,1.0,1.0,0.0
+data engineer,Senior,Small company,Company - Private,Industry,$5 to $100 million (USD),Southern,93967.0,21.0,0.0,0.0,0.0,0.0,1.0,0.0
+data engineer,junior,Small company,Company - Public,Unknown,Less than $5 million (USD),Northeastern,90710.0,28.0,0.0,0.0,0.0,1.0,0.0,0.0
+data engineer,junior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Southern,120000.0,13.4,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,Senior,Unknown size,Other institutions,Unknown,Unknown / Non-Applicable,Remote,110164.0,85.2,0.0,0.0,0.0,0.0,1.0,0.0
+data engineer,junior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,135000.0,15.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Northeastern,96564.0,37.4,1.0,1.0,0.0,0.0,0.0,0.0
+data engineer,mid,Huge company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Western,170000.0,6.2,1.0,0.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Midwestern,105000.0,12.0,1.0,1.0,0.0,1.0,0.0,0.0
+data engineer,junior,Large company,Company - Private,Financial and housing services,$100 million to $1 billion (USD),Southern,103335.0,84.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,junior,Large company,Other institutions,Other sectors,$5 to $100 million (USD),Midwestern,130000.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Large company,Company - Public,IT and Telecommunications,$100 million to $1 billion (USD),Northeastern,86265.0,83.0,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,155000.0,19.0,1.0,0.0,0.0,1.0,1.0,1.0
+data engineer,mid,Large company,Company - Private,Financial and housing services,$1 to $10 billion (USD),Western,127500.0,44.1,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,mid,Large company,Company - Private,Financial and housing services,Less than $5 million (USD),Remote,107055.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,Healthcare,$5 to $100 million (USD),Northeastern,109880.0,40.0,0.0,1.0,0.0,0.0,0.0,1.0
+data engineer,mid,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Southern,72500.0,55.0,1.0,0.0,0.0,0.0,1.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,51672.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,171289.0,23.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,mid,Large company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Northeastern,85000.0,69.0,1.0,0.0,1.0,1.0,0.0,1.0
+data engineer,Senior,Large company,Company - Public,Financial and housing services,$10+ billion (USD),Southern,137272.0,33.6,0.0,1.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,105000.0,12.5,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,Other sectors,Unknown / Non-Applicable,Midwestern,94974.0,105.0,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,112436.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+data engineer,mid,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Remote,145000.0,21.0,1.0,1.0,1.0,1.0,0.0,1.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Southern,130000.0,3.9,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,140000.0,76.0,1.0,0.0,1.0,0.0,0.0,1.0
+data analyst,Senior,Unknown size,Company - Private,Financial and housing services,Unknown / Non-Applicable,Western,125350.0,87.0,1.0,0.0,1.0,0.0,0.0,1.0
+data engineer,Senior,Huge company,Company - Public,Other sectors,Unknown / Non-Applicable,Midwestern,163000.0,4.0,1.0,1.0,1.0,1.0,1.0,0.0
+data engineer,Senior,Large company,Other institutions,IT and Telecommunications,$100 million to $1 billion (USD),Northeastern,84452.0,16.1,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,junior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Remote,105000.0,12.5,0.0,1.0,0.0,1.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,94580.0,45.4,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,162100.0,18.0,0.0,1.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Huge company,Company - Public,Financial and housing services,$1 to $10 billion (USD),Midwestern,110000.0,25.7,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,Other sectors,$100 million to $1 billion (USD),Southern,135000.0,12.9,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Midwestern,101571.0,185.0,1.0,0.0,1.0,0.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,64380.0,6.0,1.0,1.0,1.0,1.0,0.0,0.0
+data scientist,Senior,Large company,Company - Private,Other sectors,$100 million to $1 billion (USD),Remote,92430.0,61.0,1.0,0.0,1.0,1.0,0.0,1.0
+data engineer,Senior,Large company,Company - Private,Financial and housing services,Unknown / Non-Applicable,Midwestern,108168.0,94.0,1.0,1.0,0.0,0.0,1.0,1.0
+data engineer,mid,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Southern,72604.0,15.0,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,65000.0,77.7,1.0,1.0,0.0,0.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,137324.0,33.6,1.0,1.0,0.0,1.0,0.0,0.0
+data engineer,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,118000.0,15.0,1.0,1.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,72500.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Small company,Company - Private,Unknown,Less than $5 million (USD),Remote,130000.0,3.9,1.0,1.0,0.0,1.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,150000.0,26.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,143877.0,43.0,1.0,0.0,1.0,1.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Midwestern,100000.0,133.0,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,junior,Large company,Company - Private,Business services,$100 million to $1 billion (USD),Southern,81446.0,106.0,1.0,0.0,0.0,0.0,1.0,1.0
+data engineer,Senior,Huge company,Company - Public,Other sectors,$10+ billion (USD),Southern,90526.0,8.0,1.0,0.0,0.0,1.0,0.0,1.0
+data engineer,junior,Small company,Company - Private,Business services,$5 to $100 million (USD),Midwestern,105000.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,junior,Small company,Company - Private,Media and Entertaiment,Unknown / Non-Applicable,Northeastern,125000.0,12.4,0.0,0.0,1.0,0.0,0.0,0.0
+data engineer,Senior,Unknown size,Other institutions,Unknown,Unknown / Non-Applicable,Remote,145000.0,17.0,1.0,1.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,173475.0,36.0,1.0,1.0,1.0,1.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Southern,115000.0,19.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Unknown size,Other institutions,Unknown,Unknown / Non-Applicable,Northeastern,130000.0,1.9,1.0,1.0,1.0,1.0,1.0,0.0
+data engineer,mid,Small company,Company - Public,Unknown,Unknown / Non-Applicable,Remote,117500.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,104126.0,56.0,1.0,0.0,1.0,0.0,0.0,1.0
+data engineer,Senior,Large company,Other institutions,Media and Entertaiment,$100 million to $1 billion (USD),Western,120000.0,13.4,1.0,1.0,0.0,0.0,0.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,115000.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,junior,Huge company,Company - Public,Other sectors,$10+ billion (USD),Western,91998.0,58.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Southern,140000.0,13.4,1.0,1.0,0.0,1.0,1.0,1.0
+data engineer,Senior,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Remote,157000.0,21.0,1.0,0.0,0.0,1.0,0.0,0.0
+data engineer,Senior,Unknown size,Other institutions,Unknown,Unknown / Non-Applicable,Northeastern,135800.0,34.0,1.0,1.0,1.0,1.0,0.0,0.0
+data engineer,mid,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,65004.0,172.0,1.0,0.0,0.0,0.0,1.0,1.0
+data engineer,mid,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Western,115000.0,135.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,mid,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Remote,56820.0,137.0,1.0,0.0,1.0,1.0,1.0,0.0
+data engineer,Senior,Unknown size,Other institutions,Unknown,Unknown / Non-Applicable,Remote,46621.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,125000.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Huge company,Company - Private,Industry,$10+ billion (USD),Midwestern,70125.0,132.0,0.0,0.0,0.0,0.0,1.0,0.0
+data engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Northeastern,82500.0,16.0,1.0,0.0,0.0,0.0,1.0,0.0
+data engineer,mid,Large company,Company - Public,IT and Telecommunications,$100 million to $1 billion (USD),Northeastern,61000.0,83.0,0.0,0.0,0.0,0.0,1.0,0.0
+data engineer,junior,Large company,Company - Private,Industry,$1 to $10 billion (USD),Northeastern,100120.0,221.0,1.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,75000.0,24.8,0.0,0.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Western,72500.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,69440.0,6.0,0.0,0.0,0.0,0.0,1.0,0.0
+data engineer,Senior,Medium-sized company,Other institutions,Healthcare,Unknown / Non-Applicable,Western,124000.0,13.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Huge company,Company - Private,Financial and housing services,$10+ billion (USD),Southern,72374.0,131.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Large company,Other institutions,Other sectors,$100 million to $1 billion (USD),Southern,140000.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0
+data analyst,Senior,Huge company,Other institutions,Other sectors,$1 to $10 billion (USD),Western,45000.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Large company,Company - Private,Industry,$100 million to $1 billion (USD),Midwestern,72500.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,109000.0,86.1,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Huge company,Other institutions,Other sectors,$1 to $10 billion (USD),Midwestern,45000.0,108.0,1.0,0.0,0.0,0.0,0.0,1.0
+data analyst,mid,Medium-sized company,Company - Private,Other sectors,Unknown / Non-Applicable,Northeastern,86650.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,junior,Large company,Company - Public,Other sectors,$1 to $10 billion (USD),Remote,74000.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Large company,Company - Private,Media and Entertaiment,$100 million to $1 billion (USD),Remote,57839.0,5.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Unknown size,Company - Private,Unknown,Unknown / Non-Applicable,Remote,72000.0,77.2,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,56139.0,135.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Small company,Company - Private,Healthcare,Unknown / Non-Applicable,Northeastern,63000.0,89.3,1.0,0.0,0.0,1.0,1.0,0.0
+data analyst,Senior,Large company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Western,59627.0,139.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Huge company,Other institutions,Healthcare,$1 to $10 billion (USD),Midwestern,50692.0,20.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,57500.0,37.4,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Medium-sized company,Company - Private,Industry,$1 to $10 billion (USD),Remote,120000.0,6.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Small company,Company - Private,IT and Telecommunications,$1 to $10 billion (USD),Remote,80000.0,66.1,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,75460.0,17.0,0.0,0.0,1.0,0.0,0.0,0.0
+data analyst,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,58000.0,23.0,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Northeastern,66785.0,56.4,1.0,0.0,1.0,0.0,1.0,0.0
+data analyst,Senior,Unknown size,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,135000.0,15.6,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Remote,67000.0,13.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Other institutions,Other sectors,Unknown / Non-Applicable,Western,144000.0,19.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,55278.0,19.0,0.0,0.0,0.0,1.0,1.0,0.0
+data analyst,Senior,Small company,Other institutions,Other sectors,$1 to $10 billion (USD),Southern,70840.0,53.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,81335.0,33.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Northeastern,75726.0,134.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Midwestern,85100.0,21.9,0.0,0.0,0.0,1.0,1.0,0.0
+data analyst,junior,Small company,Company - Private,Financial and housing services,Less than $5 million (USD),Midwestern,69078.0,20.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Medium-sized company,Company - Private,Business services,Unknown / Non-Applicable,Southern,63954.0,47.4,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,42740.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,43000.0,44.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Medium-sized company,Company - Private,Business services,$100 million to $1 billion (USD),Northeastern,60458.0,211.0,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Unknown size,Company - Private,Healthcare,Unknown / Non-Applicable,Midwestern,88210.0,87.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Unknown size,Company - Private,Business services,Unknown / Non-Applicable,Remote,65797.0,48.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Northeastern,41000.0,63.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,65000.0,52.8,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Large company,Company - Public,Industry,$100 million to $1 billion (USD),Northeastern,120000.0,13.4,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Huge company,Company - Private,Other sectors,$10+ billion (USD),Midwestern,58000.0,21.4,1.0,0.0,0.0,1.0,0.0,0.0
+data analyst,Senior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Western,100000.0,39.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Midwestern,67918.0,8.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Large company,Company - Private,Other sectors,$100 million to $1 billion (USD),Northeastern,125000.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Medium-sized company,Other institutions,Media and Entertaiment,$5 to $100 million (USD),Western,60000.0,105.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Unknown size,Company - Public,Industry,Unknown / Non-Applicable,Western,105000.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,junior,Medium-sized company,Company - Private,Business services,Less than $5 million (USD),Remote,68900.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,junior,Large company,Company - Private,Business services,$100 million to $1 billion (USD),Southern,83000.0,48.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Huge company,Other institutions,Healthcare,$1 to $10 billion (USD),Northeastern,62550.0,51.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Large company,Company - Private,Financial and housing services,$100 million to $1 billion (USD),Western,63331.0,46.0,1.0,0.0,0.0,0.0,0.0,1.0
+data analyst,Senior,Huge company,Other institutions,Other sectors,$1 to $10 billion (USD),Southern,61944.0,98.8,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Large company,Other institutions,Other sectors,$5 to $100 million (USD),Western,64608.0,67.3,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,80000.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,58475.0,21.4,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,junior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,70000.0,59.6,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Remote,70000.0,14.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,Media and Entertaiment,$5 to $100 million (USD),Western,177000.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Southern,81000.0,25.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Large company,Company - Private,Industry,$100 million to $1 billion (USD),Remote,140000.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Western,90149.0,83.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Huge company,Other institutions,Healthcare,$10+ billion (USD),Northeastern,93000.0,13.6,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,77000.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Large company,Company - Public,Financial and housing services,$1 to $10 billion (USD),Northeastern,61695.0,119.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Huge company,Company - Public,Business services,$10+ billion (USD),Southern,71122.0,142.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Large company,Other institutions,Other sectors,Less than $5 million (USD),Southern,56311.0,38.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Small company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Southern,67800.0,62.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Small company,Other institutions,Media and Entertaiment,Unknown / Non-Applicable,Western,57851.0,16.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Unknown size,Company - Public,Industry,Unknown / Non-Applicable,Remote,67038.0,51.2,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Midwestern,92000.0,54.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Large company,Company - Private,Business services,$5 to $100 million (USD),Western,75000.0,24.8,0.0,0.0,0.0,1.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Western,55000.0,83.8,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,junior,Large company,Company - Public,Healthcare,$1 to $10 billion (USD),Remote,61551.0,107.0,0.0,0.0,0.0,1.0,0.0,0.0
+data analyst,mid,Small company,Company - Public,Unknown,Less than $5 million (USD),Remote,93000.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Huge company,Other institutions,Other sectors,Unknown / Non-Applicable,Southern,82500.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Huge company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Southern,62656.0,33.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Remote,65530.0,15.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Small company,Company - Private,Business services,Less than $5 million (USD),Remote,61822.0,98.8,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Large company,Company - Public,Healthcare,$1 to $10 billion (USD),Midwestern,72500.0,37.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,64075.0,77.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Large company,Company - Public,IT and Telecommunications,$100 million to $1 billion (USD),Western,52625.0,114.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Huge company,Other institutions,Other sectors,Unknown / Non-Applicable,Western,60000.0,110.4,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Southern,75000.0,16.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,78000.0,87.1,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Large company,Company - Public,Financial and housing services,$1 to $10 billion (USD),Southern,81100.0,21.0,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,Media and Entertaiment,Unknown / Non-Applicable,Remote,93000.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Unknown size,Company - Private,Unknown,Unknown / Non-Applicable,Remote,71676.0,161.0,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Unknown size,Company - Private,Financial and housing services,Unknown / Non-Applicable,Southern,65776.0,89.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Large company,Company - Public,Financial and housing services,Unknown / Non-Applicable,Western,113000.0,25.3,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Medium-sized company,Other institutions,Financial and housing services,$1 to $10 billion (USD),Southern,70879.0,159.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Large company,Company - Private,Industry,$100 million to $1 billion (USD),Northeastern,53877.0,61.7,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Midwestern,46739.0,70.5,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Medium-sized company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,75000.0,24.8,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,Media and Entertaiment,Less than $5 million (USD),Western,67882.0,77.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Huge company,Company - Public,Other sectors,$10+ billion (USD),Western,78797.0,76.4,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Large company,Company - Private,Industry,$1 to $10 billion (USD),Midwestern,86446.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,125000.0,7.0,0.0,0.0,1.0,0.0,0.0,0.0
+data analyst,mid,Small company,Other institutions,Healthcare,$5 to $100 million (USD),Southern,105000.0,12.5,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Medium-sized company,Company - Public,Unknown,Unknown / Non-Applicable,Western,82132.0,50.2,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Western,80867.0,25.0,1.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Large company,Company - Public,Financial and housing services,Unknown / Non-Applicable,Western,97500.0,50.0,1.0,0.0,0.0,1.0,0.0,0.0
+data analyst,Senior,Huge company,Other institutions,Other sectors,$1 to $10 billion (USD),Western,130000.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,Media and Entertaiment,$100 million to $1 billion (USD),Southern,61917.0,98.8,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,52000.0,33.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Midwestern,71583.0,86.4,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,junior,Small company,Other institutions,Unknown,Unknown / Non-Applicable,Southern,58056.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Medium-sized company,Other institutions,Other sectors,$5 to $100 million (USD),Southern,68617.0,5.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,120000.0,25.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Large company,Company - Public,Financial and housing services,$1 to $10 billion (USD),Midwestern,52032.0,61.8,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Unknown size,Other institutions,Unknown,Unknown / Non-Applicable,Southern,76720.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Large company,Other institutions,Financial and housing services,Unknown / Non-Applicable,Northeastern,101500.0,134.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Southern,53640.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,77339.0,64.1,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Small company,Other institutions,Unknown,Less than $5 million (USD),Northeastern,100000.0,39.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Large company,Company - Private,Business services,$100 million to $1 billion (USD),Southern,68871.0,46.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Unknown size,Company - Private,Business services,$5 to $100 million (USD),Western,39855.0,49.2,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Medium-sized company,Company - Private,Business services,$100 million to $1 billion (USD),Southern,63211.0,99.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Unknown size,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,60000.0,110.4,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,Unknown,Less than $5 million (USD),Southern,72658.0,5.0,1.0,0.0,0.0,1.0,0.0,0.0
+data analyst,Senior,Medium-sized company,Other institutions,Other sectors,$5 to $100 million (USD),Northeastern,26000.0,63.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Other institutions,Other sectors,Unknown / Non-Applicable,Southern,86500.0,20.5,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,mid,Medium-sized company,Company - Private,Industry,Unknown / Non-Applicable,Midwestern,46220.0,14.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Medium-sized company,Other institutions,Business services,Unknown / Non-Applicable,Northeastern,58162.0,20.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Remote,74844.0,25.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Unknown size,Company - Private,Healthcare,Unknown / Non-Applicable,Midwestern,77299.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Large company,Company - Private,Business services,$100 million to $1 billion (USD),Southern,101043.0,134.0,1.0,0.0,0.0,1.0,1.0,0.0
+data analyst,mid,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Northeastern,155000.0,11.0,0.0,0.0,0.0,1.0,1.0,0.0
+data analyst,mid,Huge company,Other institutions,Other sectors,Unknown / Non-Applicable,Western,56614.0,128.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,67500.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,Senior,Small company,Company - Private,Unknown,Less than $5 million (USD),Remote,50637.0,61.8,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Huge company,Company - Public,Business services,$10+ billion (USD),Southern,65004.0,172.0,1.0,0.0,0.0,0.0,1.0,1.0
+data analyst,junior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,72374.0,131.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Medium-sized company,Company - Private,Financial and housing services,$5 to $100 million (USD),Midwestern,65148.0,34.6,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,mid,Unknown size,Company - Private,Business services,Unknown / Non-Applicable,Remote,65000.0,14.0,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Small company,Company - Private,Financial and housing services,Unknown / Non-Applicable,Midwestern,57839.0,5.0,1.0,0.0,0.0,0.0,1.0,0.0
+data analyst,junior,Medium-sized company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,81136.0,60.2,0.0,0.0,0.0,0.0,1.0,0.0
+data analyst,Senior,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Northeastern,86650.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,junior,Small company,Company - Private,Financial and housing services,Unknown / Non-Applicable,Southern,65004.0,172.0,1.0,0.0,0.0,0.0,1.0,1.0
+data analyst,junior,Large company,Company - Public,IT and Telecommunications,$5 to $100 million (USD),Northeastern,86650.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+data analyst,junior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Southern,45000.0,108.0,1.0,0.0,0.0,0.0,0.0,1.0
+data analyst,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Southern,73338.0,109.0,0.0,0.0,0.0,0.0,0.0,1.0
+data analyst,Senior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Northeastern,180900.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+data analyst,Senior,Unknown size,Other institutions,Unknown,Unknown / Non-Applicable,Southern,117724.0,71.0,1.0,0.0,0.0,0.0,0.0,1.0
+data analyst,junior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Northeastern,109104.0,71.0,1.0,0.0,0.0,0.0,0.0,1.0
+data analyst,Senior,Medium-sized company,Company - Private,Healthcare,Unknown / Non-Applicable,Northeastern,91950.0,44.0,1.0,0.0,0.0,1.0,0.0,1.0
+data analyst,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,133773.0,173.0,1.0,0.0,0.0,1.0,1.0,1.0
+data analyst,Senior,Huge company,Company - Private,Financial and housing services,$10+ billion (USD),Southern,153619.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0
+data analyst,junior,Huge company,Other institutions,Healthcare,$1 to $10 billion (USD),Midwestern,138475.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+data analyst,Senior,Small company,Company - Private,Other sectors,Unknown / Non-Applicable,Southern,126650.0,108.0,1.0,0.0,1.0,1.0,0.0,1.0
+data analyst,junior,Medium-sized company,Company - Private,Other sectors,Unknown / Non-Applicable,Northeastern,126495.0,27.0,1.0,0.0,0.0,0.0,1.0,1.0
+data analyst,Senior,Medium-sized company,Other institutions,Other sectors,Unknown / Non-Applicable,Western,152000.0,28.0,0.0,0.0,0.0,1.0,0.0,1.0
+data analyst,Senior,Medium-sized company,Company - Public,Business services,$100 million to $1 billion (USD),Northeastern,57500.0,37.4,1.0,0.0,0.0,0.0,1.0,1.0
+data analyst,Senior,Unknown size,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,100000.0,45.0,0.0,0.0,0.0,0.0,1.0,1.0
+data analyst,Senior,Huge company,Company - Private,Financial and housing services,$10+ billion (USD),Southern,84000.0,48.3,0.0,0.0,0.0,0.0,1.0,1.0
+data analyst,Senior,Unknown size,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,54291.0,76.0,0.0,0.0,0.0,0.0,0.0,1.0
+data analyst,mid,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Northeastern,133142.0,58.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,mid,Huge company,Company - Public,Healthcare,$10+ billion (USD),Southern,143796.0,87.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Medium-sized company,Other institutions,Business services,Unknown / Non-Applicable,Western,135000.0,59.0,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,mid,Large company,Other institutions,Other sectors,Unknown / Non-Applicable,Northeastern,67500.0,50.5,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,junior,Large company,Other institutions,Other sectors,Unknown / Non-Applicable,Northeastern,66609.0,50.2,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Large company,Other institutions,Industry,Unknown / Non-Applicable,Western,88383.0,76.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,mid,Huge company,Company - Public,Healthcare,$10+ billion (USD),Northeastern,114750.0,70.0,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,Senior,Small company,Company - Private,IT and Telecommunications,$1 to $10 billion (USD),Remote,99354.0,157.0,1.0,0.0,0.0,0.0,0.0,1.0
+data engineer,Senior,Large company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,141704.0,17.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Southern,149100.0,25.0,0.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,139446.0,19.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Western,94450.0,44.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,junior,Small company,Company - Private,Financial and housing services,Less than $5 million (USD),Midwestern,138450.0,47.0,0.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,126627.0,57.0,0.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,mid,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,137376.0,33.6,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,mid,Medium-sized company,Company - Private,Industry,$100 million to $1 billion (USD),Remote,107500.0,96.6,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Large company,Other institutions,Business services,Unknown / Non-Applicable,Midwestern,210000.0,29.4,0.0,0.0,1.0,1.0,0.0,1.0
+machine learning engineer,junior,Large company,Company - Private,Industry,$1 to $10 billion (USD),Northeastern,98636.0,9.0,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,88155.0,76.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Northeastern,213000.0,17.0,1.0,1.0,0.0,0.0,0.0,1.0
+machine learning engineer,junior,Small company,Company - Private,Financial and housing services,Less than $5 million (USD),Midwestern,128826.0,11.0,1.0,0.0,0.0,1.0,1.0,1.0
+machine learning engineer,Senior,Small company,Company - Private,Unknown,Unknown / Non-Applicable,Southern,65916.0,18.0,1.0,0.0,0.0,0.0,1.0,1.0
+data scientist,Senior,Large company,Company - Private,Industry,$100 million to $1 billion (USD),Midwestern,104289.0,18.0,1.0,1.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Large company,Other institutions,Other sectors,$1 to $10 billion (USD),Western,125047.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0
+machine learning engineer,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,105577.0,108.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Large company,Other institutions,IT and Telecommunications,Unknown / Non-Applicable,Western,98636.0,9.0,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,Senior,Unknown size,Company - Private,Business services,$5 to $100 million (USD),Western,105577.0,108.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Western,57243.0,185.0,1.0,0.0,1.0,1.0,0.0,1.0
+machine learning engineer,mid,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Western,102209.0,18.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Large company,Other institutions,Industry,Unknown / Non-Applicable,Western,134737.0,11.0,0.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,114412.0,67.0,1.0,0.0,0.0,1.0,1.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Industry,$10+ billion (USD),Northeastern,107092.0,71.0,1.0,0.0,0.0,1.0,1.0,1.0
+machine learning engineer,Senior,Unknown size,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,157500.0,6.0,1.0,0.0,1.0,1.0,0.0,1.0
+machine learning engineer,mid,Small company,Company - Public,Unknown,Unknown / Non-Applicable,Southern,120277.0,172.0,1.0,1.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Remote,68500.0,132.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Medium-sized company,Company - Private,Other sectors,$5 to $100 million (USD),Southern,69910.0,75.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,mid,Large company,Other institutions,Business services,Unknown / Non-Applicable,Midwestern,141906.0,23.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Large company,Company - Public,Other sectors,$1 to $10 billion (USD),Northeastern,160000.0,6.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Large company,Company - Public,Healthcare,$10+ billion (USD),Northeastern,205000.0,41.0,1.0,1.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Large company,Other institutions,Healthcare,$100 million to $1 billion (USD),Northeastern,120277.0,172.0,1.0,1.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Large company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Western,205000.0,41.0,1.0,1.0,0.0,0.0,0.0,1.0
+machine learning engineer,junior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Southern,72000.0,60.0,0.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Southern,44000.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Medium-sized company,Company - Private,Other sectors,$5 to $100 million (USD),Southern,194350.0,36.0,1.0,1.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Business services,$1 to $10 billion (USD),Southern,127000.0,83.0,1.0,1.0,0.0,1.0,1.0,1.0
+data engineer,mid,Huge company,Company - Public,Industry,$10+ billion (USD),Midwestern,88027.0,19.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,mid,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Northeastern,109794.0,24.0,1.0,1.0,0.0,1.0,1.0,1.0
+machine learning engineer,Senior,Small company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Western,104582.0,13.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Other sectors,$10+ billion (USD),Midwestern,78739.0,75.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,mid,Large company,Other institutions,Other sectors,Unknown / Non-Applicable,Northeastern,45000.0,39.0,0.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,mid,Small company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,91174.0,35.0,1.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Private,Financial and housing services,$10+ billion (USD),Southern,80000.0,22.0,1.0,1.0,1.0,1.0,0.0,0.0
+machine learning engineer,Senior,Medium-sized company,Other institutions,Other sectors,$5 to $100 million (USD),Northeastern,152850.0,24.0,1.0,1.0,1.0,0.0,0.0,1.0
+machine learning engineer,junior,Large company,Other institutions,Other sectors,$100 million to $1 billion (USD),Northeastern,137055.0,33.6,1.0,0.0,0.0,0.0,1.0,0.0
+machine learning engineer,Senior,Large company,Company - Public,Healthcare,$1 to $10 billion (USD),Northeastern,91428.0,48.0,0.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Western,191125.0,223.0,0.0,0.0,0.0,0.0,0.0,0.0
+data scientist,mid,Huge company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,136121.0,24.0,1.0,1.0,1.0,0.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Private,Financial and housing services,$10+ billion (USD),Southern,134068.0,44.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,mid,Huge company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,100000.0,42.8,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Other institutions,Other sectors,$10+ billion (USD),Western,191125.0,223.0,0.0,0.0,0.0,0.0,0.0,0.0
+machine learning engineer,mid,Large company,Company - Private,Other sectors,Unknown / Non-Applicable,Western,113455.0,28.0,0.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Large company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Western,102406.0,14.0,1.0,0.0,1.0,1.0,1.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Western,154865.0,14.0,1.0,0.0,1.0,1.0,0.0,0.0
+data engineer,junior,Medium-sized company,Other institutions,Business services,$100 million to $1 billion (USD),Western,107907.0,107.6,1.0,0.0,0.0,1.0,1.0,1.0
+machine learning engineer,Senior,Unknown size,Company - Public,Unknown,Unknown / Non-Applicable,Southern,118581.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0
+machine learning engineer,Senior,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Southern,124350.0,24.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,junior,Large company,Other institutions,Other sectors,$100 million to $1 billion (USD),Northeastern,107398.0,88.6,1.0,0.0,0.0,0.0,0.0,0.0
+machine learning engineer,mid,Small company,Company - Private,Financial and housing services,$5 to $100 million (USD),Northeastern,115000.0,4.0,0.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,mid,Medium-sized company,Company - Private,Business services,$5 to $100 million (USD),Southern,104939.0,33.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,mid,Medium-sized company,Company - Public,Business services,$5 to $100 million (USD),Remote,135188.0,32.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Other sectors,$1 to $10 billion (USD),Western,92500.0,7.0,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,Senior,Small company,Company - Public,Unknown,Unknown / Non-Applicable,Northeastern,57527.0,122.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Huge company,Other institutions,Other sectors,$1 to $10 billion (USD),Southern,140000.0,16.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,81000.0,49.0,1.0,0.0,0.0,1.0,1.0,1.0
+data scientist,Senior,Large company,Other institutions,Media and Entertaiment,$5 to $100 million (USD),Western,110823.0,8.0,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,Senior,Large company,Company - Public,Healthcare,$5 to $100 million (USD),Northeastern,102715.0,136.0,0.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Small company,Other institutions,Unknown,Unknown / Non-Applicable,Southern,118233.0,99.0,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Financial and housing services,$10+ billion (USD),Northeastern,109312.0,32.0,0.0,0.0,0.0,0.0,0.0,1.0
+data scientist,Senior,Small company,Company - Private,Business services,Unknown / Non-Applicable,Midwestern,102871.0,86.0,1.0,1.0,1.0,1.0,1.0,1.0
+machine learning engineer,mid,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Northeastern,73338.0,109.0,0.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Remote,117724.0,71.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Unknown / Non-Applicable,Northeastern,109104.0,71.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Medium-sized company,Company - Private,Unknown,Unknown / Non-Applicable,Western,133773.0,173.0,1.0,0.0,0.0,1.0,1.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Southern,126495.0,27.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,IT and Telecommunications,$10+ billion (USD),Western,126650.0,108.0,1.0,0.0,1.0,1.0,0.0,1.0
+machine learning engineer,mid,Small company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Northeastern,138475.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,Less than $5 million (USD),Remote,133142.0,58.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Large company,Company - Private,Other sectors,Unknown / Non-Applicable,Northeastern,100000.0,45.0,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,mid,Large company,Company - Public,Healthcare,$100 million to $1 billion (USD),Northeastern,73338.0,109.0,0.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Other institutions,Other sectors,$10+ billion (USD),Northeastern,109104.0,71.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,IT and Telecommunications,Unknown / Non-Applicable,Western,126495.0,27.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,IT and Telecommunications,$1 to $10 billion (USD),Western,133142.0,58.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,junior,Large company,Other institutions,Other sectors,$1 to $10 billion (USD),Northeastern,135000.0,59.0,1.0,0.0,0.0,1.0,0.0,1.0
+machine learning engineer,junior,Large company,Company - Public,IT and Telecommunications,$5 to $100 million (USD),Western,88383.0,76.0,1.0,0.0,0.0,0.0,1.0,1.0
+data analyst,Senior,Large company,Company - Private,Other sectors,$5 to $100 million (USD),Northeastern,133773.0,173.0,1.0,0.0,0.0,1.0,1.0,1.0
+machine learning engineer,Senior,Huge company,Company - Public,Industry,$1 to $10 billion (USD),Southern,138475.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,Senior,Huge company,Company - Private,Industry,$10+ billion (USD),Northeastern,135000.0,59.0,1.0,0.0,0.0,1.0,0.0,1.0
+data scientist,Senior,Huge company,Company - Public,Healthcare,$10+ billion (USD),Northeastern,143796.0,87.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,Senior,Medium-sized company,Company - Private,IT and Telecommunications,$5 to $100 million (USD),Western,117724.0,71.0,1.0,0.0,0.0,0.0,0.0,1.0
+machine learning engineer,junior,Huge company,Other institutions,Financial and housing services,$10+ billion (USD),Southern,143796.0,87.0,1.0,0.0,0.0,0.0,1.0,1.0
+machine learning engineer,mid,Huge company,Company - Public,Healthcare,$10+ billion (USD),Southern,88383.0,76.0,1.0,0.0,0.0,0.0,1.0,1.0

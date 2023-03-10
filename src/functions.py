@@ -3,8 +3,10 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import re
-
-
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+import yaml
+with open("../params.yaml", "r") as file:
+    config = yaml.safe_load(file)
 
 def pattern_lister(row, pattern):
     list_fulfill_pattern=[]
@@ -131,5 +133,53 @@ def countplot_generator(df):
         else:
             sns.countplot(data = df2, x = col, order = df2[col].value_counts().index, ax = ax[n])
         n +=1
+    plt.savefig(config['images']+'categorical_trans.png', dpi=300, transparent=True)
+    plt.savefig(config['images']+'categorical.png', dpi=300)
     plt.show()
     
+def outlier_remover(df):
+    df1 = df.copy()
+    thr=3
+    to_remove = []
+    for col in df1.columns:
+        sd_dw = np.mean(df1[col]) - (thr*(df1[col].std()))
+        sd_up = np.mean(df1[col]) + (thr*(df1[col].std()))
+        out = df1[(df1[col] < sd_dw)|(df1[col] > sd_up)]
+        to_remove += list(out.index)
+    df1 = df1.drop(to_remove)
+    df1 = df1.reset_index(drop=True)
+    return df1
+
+def model_performance(y_train, y_pred_train, y_test, y_pred_test):
+
+
+    ME_train = np.mean(y_train-y_pred_train)
+    ME_test  = np.mean(y_test-y_pred_test)
+
+    MAE_train = mean_absolute_error(y_train,y_pred_train)
+    MAE_test  = mean_absolute_error(y_test,y_pred_test)
+
+    MSE_train = mean_squared_error(y_train,y_pred_train)
+    MSE_test  = mean_squared_error(y_test,y_pred_test)
+
+    RMSE_train = np.sqrt(MSE_train)
+    RMSE_test  = np.sqrt(MSE_test)
+
+    MAPE_train = np.mean((np.abs(y_train-y_pred_train) / y_train)* 100.)
+    MAPE_test  = np.mean((np.abs(y_test-y_pred_test) / y_test)* 100.)
+
+    R2_train = r2_score(y_train,y_pred_train)
+    R2_test  = r2_score(y_test,y_pred_test)
+
+    performance = pd.DataFrame({'Error_metric': ['Mean error','Mean absolute error','Mean squared error',
+                                             'Root mean squared error','Mean absolute percentual error',
+                                             'R2'],
+                            'Train': [ME_train, MAE_train, MSE_train, RMSE_train, MAPE_train, R2_train],
+                            'Test' : [ME_test, MAE_test , MSE_test, RMSE_test, MAPE_test, R2_test]})
+
+    pd.options.display.float_format = '{:.2f}'.format
+
+    df_train = pd.DataFrame({'Real': y_train.tolist(), 'Predicted': y_pred_train.tolist()})
+    df_test  = pd.DataFrame({'Real': y_test.tolist(),  'Predicted': y_pred_test.tolist()})
+
+    return performance, df_train, df_test
